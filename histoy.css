@@ -1,0 +1,57 @@
+p{
+    text-align: center;
+      font-size: 25px;
+color: black;
+    margin: 0px;
+}
+.imagen {
+ 	float: left;
+	margin-right: 20px;
+}
+h1{
+    font-size: 3rem;
+  color: white;
+  text-align: center;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  font-family: 'Montserrat', sans-serif;
+    background-color: blue;
+}
+h2{
+    background-color: darkviolet;
+    color: white;
+        font-size: 30px;
+        text-align: center;
+
+
+}
+h3{
+         font-size: 25px; 
+    background-color: aquamarine
+        
+}
+.imagen2 {
+  float: right;
+  margin-right: 20px;
+  margin-bottom: 20px;
+}
+#pandemia{
+          font-size: 25px;
+    
+
+}
+body{
+    background-color: cadetblue;
+    
+}
+
+iframe{
+    align-content: center;
+}
+
+imagen {
+	float: left;
+	margin-right: 20px;
+    width=50px;
+    height=31px;
+}

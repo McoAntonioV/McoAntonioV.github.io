@@ -1,0 +1,72 @@
+.container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.container h1 {
+  text-align: center;
+}
+
+
+#img1{
+    display: inline-block;
+    width: 12%;
+    float: left;
+      align-items: center;
+
+}
+#img2{
+    display: inline-block;
+    width: 12%;
+    text-align: right;
+      align-items: center;
+
+}
+.tit{
+    display: inline-block;
+    width: 60%;
+    text-align: center;
+}
+h1{
+    color: cornflowerblue;
+}
+
+
+
+
+#txt2{
+    display: inline-block;
+    width: 40%;
+    text-align: center;
+    text-decoration:underline;
+}
+.listaNav{
+    
+    display: inline-block;
+    font-size: 18px; 
+    padding: 8px;
+    text-align: center;
+    width: 15%;
+    background-color: yellow;
+}
+#marcoprinci{
+    display: inline-block;
+    width: 99%;
+    height: 300px;
+}
+#pie2{
+    display: inline-block;
+    width: 99%;
+    height: 300px;
+}
+#pie{
+    text-align: center;
+    font-size: 20px;
+    border: blue;
+}
+#marcopie{
+    text-align: center;
+    
+}
+

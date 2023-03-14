@@ -1,0 +1,38 @@
+iframe {
+	float: left;
+	width: 25%;
+	height: 500px;
+	border: inline;  
+}
+iframe {
+	float: right;
+	width: 25%;
+	height: 500px;
+	border: inline;  
+}
+h1 {
+  font-size: 3rem;
+  color: white;
+  text-align: center;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  font-family: 'Montserrat', sans-serif;
+    background-color: blue;
+}
+p{
+     text-align: justify;
+      font-size: 25px;
+color: black;
+    margin: 0px;
+}
+body{
+    background-color: darkcyan
+}
+h2{
+    color: white;
+    background-color: darkblue;
+    text-align: center;
+      font-family: 'Montserrat', sans-serif;
+          font-size: 35px;
+
+}
